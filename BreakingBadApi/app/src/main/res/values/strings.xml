@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BreakingBadApi</string>
+    <string name="menu_switch" translatable="false" >Switch view</string>
+    <string name="app_loader" translatable="false">Loading, please Wait...</string>
+</resources>
